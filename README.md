@@ -27,10 +27,10 @@
 
 [![@_jcast04_](https://img.icons8.com/fluency/48/000000/instagram-new.png "@_jcast04_")](https://www.instagram.com/_jcast04_/) 
 [![@AARON503](https://img.icons8.com/fluency/48/000000/facebook.png "@Josue Castillo")](https://www.facebook.com/AARON503)
-[![@Josue Castillo](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/)
-[![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije)
-[![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313)
-[![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+<!--[![@Josue Castillo](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/)
+[![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije)-->
+[![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:+50370837654)
+[![@josuecast0404@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@josuecast0404@gmail.com")](josuecast0404@gmail.com)
 
 <br>
 
