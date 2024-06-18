@@ -8,7 +8,7 @@
 <!--![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JosueCast.repoName)-->
 
 <hr>
-<h6>Sobre mi 🧑‍💻</h6>
+<h2>Sobre mi 🧑‍💻</h2>
 
 - 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
 - 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
