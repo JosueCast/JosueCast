@@ -2,12 +2,13 @@
     <img alt="JosueCast" src="https://avatars.githubusercontent.com/u/126531292?v=4" width="300" "/>
 </div>
 <h1 align="center">Hola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,Soy Josue Castillo / JosueCast</h1>
+<hr>
 
 ![GitHub followers](https://img.shields.io/github/followers/JosueCast?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/JosueCast?style=social)  <img src="https://komarev.com/ghpvc/?username=JosueCast" alt="JosueCast" />
 
 <!--![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JosueCast.repoName)-->
 
-<hr>
+<br>
 <h2>Sobre mi 🧑‍💻</h2>
 
 - 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
