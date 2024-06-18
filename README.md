@@ -5,7 +5,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/JosueCast?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/JosueCast?style=social)  <img src="https://komarev.com/ghpvc/?username=JosueCast" alt="JosueCast" />
 
-##![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JosueCast.repoName)
+<!--![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JosueCast.repoName)-->
 
 ##Sobre Mi:
 
