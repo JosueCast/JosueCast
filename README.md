@@ -15,6 +15,7 @@
 - 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
 - 🏡'Lives in **Dalugama Sri Lanka**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+<hr>
 
 <br>
 
