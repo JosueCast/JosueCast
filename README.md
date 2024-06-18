@@ -1,5 +1,5 @@
 <div align="center" width="50">
-    <img alt="JOsueCast" src="https://avatars.githubusercontent.com/u/126531292?v=4" width="300"/>
+    <img alt="JosueCast" src="https://avatars.githubusercontent.com/u/126531292?v=4" width="300" style="border-radius:10px;"/>
 </div>
 <h1 align="center">Hola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,Soy Josue Castillo / JosueCast</h1>
 
