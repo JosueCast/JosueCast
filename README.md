@@ -64,8 +64,9 @@
 <!-------------------------->
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2>Proximamente...</h2>
 
-<table align="left" >
+<!--<table align="left" >
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
@@ -111,7 +112,7 @@
 </td>
   
 </tr>
-</table>
+</table>-->
   </div>
 <br>
 <br><br>
