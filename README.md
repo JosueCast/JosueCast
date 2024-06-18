@@ -1,7 +1,7 @@
 <!--<div align="center" width="50">
     <img alt="JosueCast" src="https://avatars.githubusercontent.com/u/126531292?v=4" width="300" "/>
 </div>-->
-<h1 align="center">Hola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,Soy Josue Castillo / JosueCast</h1>
+<h1 align="center">Hola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,Soy Josue Castillo</h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/JosueCast?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/JosueCast?style=social)  <img src="https://komarev.com/ghpvc/?username=JosueCast" alt="JosueCast" />
 
@@ -15,17 +15,17 @@
 - 🏢 Actualmente estudiante de Ingeniería en Sistemas en la Universidad Nacional Autónoma de Honduras (UNAH)
 - 🎓 Técnico en Ingeniería en Sistemas
 - 🏡 Vivo en **Dulce Nombre de María, Chalatenango**
+- 🌐 **Idiomas**: Español (nativo), Inglés (básico-medio)
 - ⚡ **Datos curiosos**: Me encanta la pizza 🍕, el fútbol ⚽, las películas 🎥, jugar videojuegos 🎮, y tengo una gran pasión por la programación 💻.
 
 
+<br>
+
+## Contactame ☕ :
 
 <br>
 
-## Connect with me ☕ :
-
-<br>
-
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+[![@Josue Castillo](https://img.icons8.com/fluency/48/000000/instagram-new.png "@Josue Castillo")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
 
 <br>
 
