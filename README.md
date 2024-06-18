@@ -53,11 +53,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueCast&theme=algolia)](https://github.com/JosueCast/github-readme-stats)
 <br>
 
-## GitHub Thropies 🏆 :
+## GitHub Trofeos 🏆 :
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JosueCast)](https://github.com/JosueCast/github-profile-trophy)
 
 <br>
 
