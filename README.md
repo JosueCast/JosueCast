@@ -2,21 +2,21 @@
     <img alt="JosueCast" src="https://avatars.githubusercontent.com/u/126531292?v=4" width="300" "/>
 </div>
 <h1 align="center">Hola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,Soy Josue Castillo / JosueCast</h1>
-<hr>
 
 ![GitHub followers](https://img.shields.io/github/followers/JosueCast?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/JosueCast?style=social)  <img src="https://komarev.com/ghpvc/?username=JosueCast" alt="JosueCast" />
 
 <!--![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JosueCast.repoName)-->
 
 <br>
-<h2>Sobre mi 🧑‍💻</h2>
+<h2>Sobre mí 🧑‍💻</h2>
 
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+🎓 **Técnico en Ingeniería en Sistemas**
+
+- 🏢 Actualmente estudiante de Ingeniería en Sistemas en la Universidad Nacional Autónoma de Honduras (UNAH)
+- 🎓 Técnico en Ingeniería en Sistemas
+- 🏡 Vivo en **Dulce Nombre de María, Chalatenango**
+- ⚡ **Datos curiosos**: Me encanta la pizza 🍕, el fútbol ⚽, las películas 🎥, jugar videojuegos 🎮, y tengo una gran pasión por la programación 💻.
+
 
 
 <br>
