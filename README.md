@@ -32,7 +32,7 @@
 [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije)
 [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:+50370837654)
 [![@josuecast0404@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@josuecast0404@gmail.com")](josuecast0404@gmail.com)-->
-📫 Contacto: josuecast0404@gmail.com
+<h3>📫 Contacto: josuecast0404@gmail.com</h3>
 <br>
 
 ## Tecnologías conocidas👨🏻‍💻
