@@ -12,7 +12,7 @@
 
 🎓 **Técnico en Ingeniería en Sistemas**
 
-- 🏢 Actualmente estudiante de Ingeniería en Sistemas en la Universidad Nacional Autónoma de Honduras (UNAH)
+- 🏢 Actualmente estudiante de Ingeniería en Sistemas en la Universidad Doctor Andres Bello (UNAB)
 - 🎓 Técnico en Ingeniería en Sistemas
 - 🏡 Vivo en **Dulce Nombre de María, Chalatenango**
 - 🌐 **Idiomas**: Español (nativo), Inglés (básico-medio)
