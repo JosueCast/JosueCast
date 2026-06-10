@@ -1,124 +1,113 @@
-<!--<div align="center" width="50">
-    <img alt="JosueCast" src="https://avatars.githubusercontent.com/u/126531292?v=4" width="300" "/>
-</div>-->
-<h1 align="center">Hola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,Soy Josue Castillo</h1>
+<div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/JosueCast?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/JosueCast?style=social)  <img src="https://komarev.com/ghpvc/?username=JosueCast" alt="JosueCast" />
+# 👋 ¡Hola! Soy Josué Castillo
 
-<!--![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JosueCast.repoName)-->
+### 💻 Estudiante de Ingeniería en Sistemas | Full Stack Developer en formación
 
-<br>
-<h2>## Sobre mí 🧑‍💻</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=Desarrollador+Full+Stack+en+formaci%C3%B3n;Apasionado+por+Laravel+y+.NET;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas;Construyendo+proyectos+y+mejorando+cada+d%C3%ADa" alt="Typing SVG" />
 
-🎓 **Técnico en Ingeniería en Sistemas**
+![Profile Views](https://komarev.com/ghpvc/?username=JosueCast\&label=Visitas\&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/JosueCast?style=social)
+![GitHub stars](https://img.shields.io/github/stars/JosueCast?style=social)
 
-- 🏢 Actualmente estudiante de Ingeniería en Sistemas en la Universidad Doctor Andres Bello (UNAB)
-- 🎓 Técnico en Ingeniería en Sistemas
-- 🏡 Vivo en **Dulce Nombre de María, Chalatenango**
-- 🌐 **Idiomas**: Español (nativo), Inglés (básico-medio)
-- ⚡ **Datos curiosos**: Me encanta la pizza 🍕, el fútbol ⚽, las películas 🎥, jugar videojuegos 🎮, y tengo una gran pasión por la programación 💻.
+</div>
 
+---
 
-<br>
+## 🚀 Sobre mí
 
-## Contactame ☕ :
+🎓 Estudiante de Ingeniería en Sistemas en la Universidad Doctor Andrés Bello (UNAB)
 
-<br>
-<h3>📫 Correo Electronico: josuecast0404@gmail.com</h3>
+📍 Dulce Nombre de María, Chalatenango, El Salvador 🇸🇻
 
-[![@_jcast04_](https://img.icons8.com/fluency/48/000000/instagram-new.png "@_jcast04_")](https://www.instagram.com/_jcast04_/) 
-[![@AARON503](https://img.icons8.com/fluency/48/000000/facebook.png "@Josue Castillo")](https://www.facebook.com/AARON503)
+💻 Interesado en:
 
-<!--[![@Josue Castillo](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/)
-[![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije)
-[![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:+50370837654)
-[![@josuecast0404@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@josuecast0404@gmail.com")](josuecast0404@gmail.com)-->
+* Desarrollo Web
+* Backend con Laravel, ASP.NET y Spring Boot
+* Bases de Datos SQL Server, PostgreSQL y MySQL
+* Arquitectura de Software
+* Desarrollo Full Stack
 
-<br>
+🌱 Actualmente aprendiendo:
 
-## Tecnologías conocidas👨🏻‍💻
+* Laravel avanzado
+* ASP.NET Web API
+* Vue.js
+* Buenas prácticas de desarrollo
 
-<br>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,cs,java,php,py,css,html,js,nodejs,mysql,postgres,firebase,git,github,bootstrap,vuetify,django,dotnet,jquery,laravel,spring,vue,postman,eclipse,vscode,ai,ps&perline=12" />
-  </a>
+⚽ Fuera de la programación disfruto:
+
+* Fútbol
+* Videojuegos
+* Películas
+* Lectura
+* Pizza 🍕
+
+---
+
+## 🛠️ Tecnologías
+
+### Backend
+
+![Laravel](https://skillicons.dev/icons?i=laravel,dotnet,spring,php,cs,java,nodejs)
+
+### Frontend
+
+![Frontend](https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,jquery)
+
+### Bases de Datos
+
+![DB](https://skillicons.dev/icons?i=mysql,postgres,firebase)
+
+### Herramientas
+
+![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse)
+
+---
+
+## 📊 Estadísticas
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JosueCast&theme=github-dark-blue" />
 </p>
 
-<br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JosueCast&show_icons=true&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueCast&layout=compact&theme=github_dark" />
+</p>
 
+---
 
+## 📫 Contacto
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JosueCast&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![JosueCast GitHub stats](https://github-readme-stats.vercel.app/api?username=JosueCast&theme=algolia)](https://github.com/JosueCast/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueCast&theme=algolia)](https://github.com/JosueCast/github-readme-stats)
-<br>
+<a href="mailto:josuecast0404@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
-## GitHub Trofeos 🏆 :
+<a href="https://www.instagram.com/_jcast04_/">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 
-<br>
+<a href="https://www.facebook.com/AARON503">
+<img src="https://img.icons8.com/color/48/facebook-new.png"/>
+</a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JosueCast)](https://github.com/JosueCast/github-profile-trophy)
+---
 
-<br>
+## 🎯 Objetivo 2026
 
-<!-------------------------->
-<div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
-<h2>Proximamente...</h2>
+Convertirme en un desarrollador Full Stack profesional, construir proyectos reales y conseguir mi primera oportunidad laboral en el área de desarrollo de software.
 
-<!--<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
+---
 
-   <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-</tr>
-</table>-->
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
+## ⭐ Proyectos Destacados
 
-<!------------------------->
+🔹 Sistema de Reseñas de Productos y Tiendas (ASP.NET + SQL Server)
+
+🔹 Blog con Laravel y MySQL
+
+🔹 Sistema de Gestión de Ventas
+
+🔹 Proyectos Académicos con Arduino y Electrónica
+
+*(Más proyectos próximamente...)*
